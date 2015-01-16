@@ -5,5 +5,6 @@ int main() {
 	for(;i<10;++i){
 		printf("%d  ",i);
 	}
+	printf("over")
 	return 0;
 }
