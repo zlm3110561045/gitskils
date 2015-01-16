@@ -5,6 +5,6 @@ int main() {
 	for(;i<10;++i){
 		printf("%d  ",i);
 	}
-	printf("over")
+	printf("over while")
 	return 0;
 }
