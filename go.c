@@ -6,5 +6,6 @@ int main() {
 		printf("%d  ",i);
 	}
 	printf("over while")
+	printf("yes ")
 	return 0;
 }
